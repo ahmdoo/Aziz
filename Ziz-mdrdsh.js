@@ -59,9 +59,9 @@ $("style").last().append(`
   margin-left: 5px;
 }
 #users .uzr.stl1 .My_star1 {
-  width: 84px;
+  width: 100px;
   margin-top: -74px;
-  height: 80px;
+  height: 96px;
 }
 #users .uzr.stl1 .My_tsor {
   width: 79px;
