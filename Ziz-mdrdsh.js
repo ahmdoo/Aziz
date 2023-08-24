@@ -61,7 +61,7 @@ $("style").last().append(`
 #users .uzr.stl1 .My_star1 {
   width: 100px;
   margin-top: -74px;
-  margin-left: -20px;
+  margin-left: -10px;
   height: 96px;
 }
 #users .uzr.stl1 .My_tsor {
