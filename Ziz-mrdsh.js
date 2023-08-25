@@ -45,6 +45,7 @@ $("style").last().append(`
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
+  height: 90px;
   border-radius: 4px;
   background-image: url("https://www.raed.net/img?id=339908");
   background-size: cover;
