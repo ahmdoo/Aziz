@@ -9,18 +9,14 @@ $("style").last().append(`
 #users .uzr.stl1 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
-  background-image: url("https://i.top4top.io/p_2792lb5s10.jpg");
-  background-size: cover;
+  
 }
 #users .uzr.stl1 .u-msg {
   text-align: center;
-  -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
-  color: transparent !important;
-  background-size: 90% 100%;
+  background-image: url("https://i.top4top.io/p_2792lb5s10.jpg");
+  background-size: cover;
 }
 #users .uzr.stl1 .ustat {
   width: 54px !important;
