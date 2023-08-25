@@ -83,7 +83,7 @@ var l_itv1=setInterval(function(){
         $("#users .uzr:contains('قِسْطَاسٌ')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://h.top4top.io/p_2792tp8yv0.gif">');
 	$("#users .uzr.stl1 .c-flex.fr").append('<img class="My_tsor" src="">');
-	 $("#users .uzr span.u-topic:contains('*90+')").after('<img id="mystory1" class="My_vedio1" title="يوتيوب" src="https://i.ibb.co/47VS4nY/image.png">');
+	$("#users .uzr span.u-topic:contains('*90+')").after('<img id="mystory1" class="My_vedio1" title="يوتيوب" src="https://i.ibb.co/47VS4nY/image.png">');
     
         $("#users .uzr.stl1 span.uhash, #users .uzr.stl1 img.co").hide(); 
 
