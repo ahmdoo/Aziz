@@ -63,19 +63,8 @@ background-repeat: no-repeat;
   margin-left: -10px;
   height: 96px;
 }
-#users .uzr.stl1 .My_tsor {
-  width: 79px;
-  margin-top: -45px;
-  z-index: 0;
-  margin-left: 36px;
-}
-#users .uzr.stl1 .My_vedio1 {
-  float: right;
-  width: 20px;
-  margin-top: 0px;
-  margin-right: 5px;
-  cursor: pointer;
-}
+
+
 `);
 var l_itv1=setInterval(function(){
     if(myid!=null){
