@@ -43,7 +43,7 @@ $("style").last().append(`
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border: 1px solid #fff;
- background-image: url(https://f.top4top.io/p_2591r4hmd0.png);
+ background-image: url(https://i.top4top.io/p_2792uyc4u0.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 }
